@@ -1,4 +1,4 @@
-# This is Assignment 4
+# This is Assignment 4   
 - 1. A dataset named “ Mall Customers” is provided. This dataset is downloaded from Kaggle.com.  
 - 2. Import the dataset in google collab using pandas.   
 - 3. Perform DBSCAN clustering on the dataset using google collab Notebook for Python.  
